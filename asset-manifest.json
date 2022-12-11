@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//davidkamnatnik.github.io/short-url/static/css/main.685cb176.css",
+    "main.js": "//davidkamnatnik.github.io/short-url/static/js/main.48c157de.js",
+    "index.html": "//davidkamnatnik.github.io/short-url/index.html",
+    "main.685cb176.css.map": "//davidkamnatnik.github.io/short-url/static/css/main.685cb176.css.map",
+    "main.48c157de.js.map": "//davidkamnatnik.github.io/short-url/static/js/main.48c157de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685cb176.css",
+    "static/js/main.48c157de.js"
+  ]
+}
